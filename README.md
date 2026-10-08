@@ -2,6 +2,8 @@
 
 Distributed real-time log and event analytics using Redpanda, ClickHouse, FastAPI, and Grafana.
 
+![StreamPulse Pipeline Demo](assets/demo.gif)
+
 ## Architecture
 
 ```mermaid
